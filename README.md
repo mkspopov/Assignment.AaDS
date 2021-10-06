@@ -1,1 +1,1 @@
-# Assignment.-Algorithms-and-Data-Structures
+A possibility to retake the course.
